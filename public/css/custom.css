@@ -1,0 +1,407 @@
+.swal2-container.swal2-center {
+    z-index: 9999;
+}
+
+/* ancho de la columna de botones */
+.actions-width{
+    width: 134px;
+}
+
+.modal {
+    z-index: 9992;
+    padding:0 !important;
+  }
+  
+.modal-backdrop {
+    z-index: 9991;
+    padding: 0 !important;
+  }
+
+/*estilo colores citas calendario*/
+.dis-color{
+    color: rgba(0, 212, 99, 0.5);
+}
+
+.res-color{
+    color: #1c63c6;
+}
+
+.entidades-color {
+    color: #7517b8;
+}
+
+.can-color{
+    color: #000000;
+}
+
+.repr-color{
+    color: #B695C0;
+}
+
+.nodis-color{
+    color: #a1a1a1;
+}
+
+/*estilo colores home calendario*/
+.req-color{
+    color: #0066ff;
+}
+
+.proc-color{
+    color: #ffc107 ;
+}
+
+.finreq-color{
+    color: #17a2b8;
+}
+
+.acep-color{
+    color: #007bff;
+}
+
+.act-color{
+    color: #a7a7a7;
+}
+
+.ven-color{
+    color: #fa5661;
+}
+
+.fin-color{
+    color: #0da13c;
+}
+
+.cump-color{
+    color: #f5ca05;
+}
+
+.fc-title{
+    font-size: 14px !important;
+    padding: 2px 5px;
+}
+
+/* estilo botones de acciones */
+.btn-ver:hover{
+  color: #575757;
+}
+.btn-ver{
+   color: #464646
+}
+
+.btn-editar:hover{
+    color: #575757;
+}
+
+.btn-editar{
+    color: #464646
+}
+
+.btn-eliminar:hover{
+    color: #575757;
+}
+
+.btn-eliminar{
+    border: none;
+    background-color: transparent;
+    color: #464646
+}
+
+/* estilo de botones deshabilitados */
+.btn-disable-action,
+.btn-disable-action:hover,
+.btn-disable-action:focus {
+  cursor: default;
+  color: transparent;
+}
+
+.btn-back {
+    color: #374c63 !important;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.btn-back:hover {
+    color: #1f2d3d !important;
+    background-color: #e2e6ea;
+    border-color: #dae0e5;
+}
+
+
+/* Alertas */
+.alert-success {
+    color: #0f5132 !important;
+    background-color: #d1e7dd !important;
+    border-color: #badbcc !important;
+}
+
+.alert-info {
+    color: #055160 !important;
+    background-color: #cff4fc !important;
+    border-color: #b6effb !important;
+}
+
+.alert-primary {
+    color: #084298 !important;
+    background-color: #cfe2ff !important;
+    border-color: #b6d4fe !important;
+}
+
+.alert-danger {
+    color: #842029 !important;
+    background-color: #f8d7da !important;
+    border-color: #f5c2c7 !important;
+}
+
+.alert-warning {
+    color: #664d03 !important;
+    background-color: #fff3cd !important;
+    border-color: #ffecb5 !important;
+}
+
+.alert-dark {
+    color: #141619 !important;
+    background-color: #d3d3d4 !important;
+    border-color: #bcbebf !important;
+}
+
+.card{
+    border-radius: 20px;
+}
+
+
+.ck-editor__editable,
+textarea {
+    min-height: 150px;
+}
+
+
+
+.datatable {
+    width: 100% !important;
+}
+
+table.dataTable tbody td.select-checkbox::before,
+table.dataTable tbody td.select-checkbox::after,
+table.dataTable tbody th.select-checkbox::before,
+table.dataTable tbody th.select-checkbox::after {
+    top: 10%;
+}
+
+.dataTables_length,
+.dataTables_filter,
+.dt-buttons {
+    margin-bottom: 0.333em;
+}
+
+.dt-buttons .btn {
+    margin-left: 0.333em;
+    border-radius: 0;
+}
+
+.table.datatable {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+table.dataTable thead th {
+    border-bottom: 2px solid #dee2e6;
+}
+
+.dataTables_wrapper.no-footer .dataTables_scrollBody {
+    border-bottom: 1px solid #dee2e6;
+}
+
+table.dataTable thead .sorting,
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+    background-image: none;
+}
+
+
+
+
+
+.btn-group-xs > .btn,
+.btn-xs {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+
+.select2 {
+    max-width: 100%;
+    width: 100%;
+}
+
+.searchable-title {
+    font-weight: bold;
+}
+.select2-container--open {
+    z-index: 9999;
+}
+.searchable-fields {
+    padding-left:5px;
+}
+.searchable-link {
+    padding:0 5px 0 5px;
+}
+.searchable-link:hover   {
+    cursor: pointer;
+    background: #eaeaea;
+}
+.select2-results__option {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.form-group .required::after {
+    content: " *";
+    color: red;
+}
+
+.form-check.is-invalid ~ .invalid-feedback {
+    display: block;
+}
+
+.dataTables_length label select {
+    width: 65px!important;
+}
+
+div.dt-button-collection {
+    padding: 0;
+}
+
+.buttons-columnVisibility {
+    display: block;
+}
+
+.buttons-columnVisibility.active {
+    background-color: rgba(128, 128, 128, 0.1);
+    font-weight: bolder;
+}
+
+
+.btn-save {
+    background-color:  #3fbdee;
+    color: rgb(255, 255, 255);
+    border-color: none;
+}
+
+.btn-save.hover, .btn-save:active, .btn-save:hover {
+    background-color:  #3fbdee;
+}
+
+.btn-outline-save {
+    color: #3FBDEE;
+    border-color: #3FBDEE;
+}
+
+.btn-outline-save.hover, .btn-outline-save:active, .btn-outline-save:hover {
+    color: #e6f3ff;
+    background-color: #3FBDEE;
+}
+
+.bg-massive {
+    background-color: #3FBDEE !important;
+    color: rgb(255, 255, 255);
+}
+
+.btn:focus, .btn:hover {
+    text-decoration: none;
+}
+.btn:hover {
+    color: rgb(255, 255, 255);
+}
+
+.card-header{
+    /* font-family: "focobold"; */
+    font-size: 16px;
+    border-radius: 9px 9px 0 0 !important;
+    background-color: #232222;
+    color: rgb(255, 255, 255);
+}
+
+/* festivos calendario
+
+.event-class-1 .fc-content {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    text-align: center;
+} */
+
+.bg-help {
+    background-color: #232222 !important;
+    color: rgb(255, 255, 255);
+}
+
+.bg-help-naranja {
+    background-color: #909295 !important;
+    color: rgb(255, 255, 255);
+}
+
+.text-help {
+    color: #232222 !important;
+}
+
+.text-help-naranja {
+    color: #909295 !important;
+}
+
+
+#notificacion .dropdown-toggle::after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0em solid;
+    border-right: 0em solid transparent;
+    border-bottom: 0;
+    border-left: 0em solid transparent;
+}
+
+
+#notificacion .dropdown-item {
+    white-space: normal !important;
+}
+
+#notificacion .dropdown-item:hover {
+    background-color: #ebebeb00;
+}
+
+#menuNotificaciones{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: #232222 #fff;
+}
+
+#bell-notification{
+    font-size: 10px;
+    position:absolute;
+    transform: translateY(-5px) translateX(-11px);
+    background-color: red;
+    padding-inline: 3px 3px;
+    border-radius:25%;
+    color:white; 
+}
+
+#headingOneObligaciones .accordion-button:not(.collapsed) {
+    color: #ffffff !important;
+}
+
+#headingOneDeclaracion .accordion-button:not(.collapsed) {
+    color: #ffffff !important;
+}
+
+
+#headingOneCamaraComercio .accordion-button:not(.collapsed) {
+    color: #ffffff !important;
+}
+
+#headingOneCamaraComercioEstablecimientos .accordion-button:not(.collapsed) {
+    color: #ffffff !important;
+}

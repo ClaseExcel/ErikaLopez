@@ -1,0 +1,37 @@
+/* @font-face{
+    font-family: "focoregular";
+    src: url('/fonts/focoregular.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: "focolight";
+    src: url('/fonts/focolight.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: "focobold";
+    src: url('/fonts/focobold.ttf') format('truetype');
+}
+
+
+
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: var(--nc-gray); 
+}
+
+.fas fa-save{
+    color: var(--nc-dark-green);
+}
+
+.title-brand{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    color: var(--nc-dark-green);
+}
+.subtitle-brand{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 23px;
+    color: var(--nc-dark-green);
+} */

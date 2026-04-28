@@ -1,0 +1,19 @@
+:root{
+    /* COLORES PRIMARIOS*/
+    --nc-dark-green : rgb(51, 102, 255);
+    --nc-light-green: rgb(0, 153, 255);
+
+    /* COLORES SECUNDARIOS */
+    --nc-gray    : #0000ff;
+    --nc-green-01: #0066ff;
+    --nc-green-02: #0099ff;
+    --nc-green-03: #00ccff;
+    --nc-green-04: #66ccff;
+    --nc-green-05: #0080ff;
+    --nc-green-06: #0066cc;
+
+    /* GRISES */
+    --nc-light-gray: #EFEFEF;
+
+    --nca-light-green: rgba(0, 153, 255, 0.7);
+}
