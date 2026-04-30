@@ -199,7 +199,7 @@ function textoInicialHTML(razonSocial, fechaInicio, fechaFin) {
         <p style="text-align: justify; font-size:19px"><strong>Asunto: Informe de proyección   ${fechaInicio} a ${fechaFin}</strong></p></br>
         
         <p style="text-align: justify; font-size:19px">
-            El presente informe gerencial ha sido elaborado por Vélez García para ${razonSocial} con el propósito de presentar un análisis 
+            El presente informe gerencial ha sido elaborado por Erika López Gómez para ${razonSocial} con el propósito de presentar un análisis 
             detallado de las cifras contables correspondientes al período  ${fechaInicio} a ${fechaFin}. Este documento tiene como objetivo proporcionar información 
             relevante y clara que apoye la evaluación de la situación financiera, el 
             desempeño operativo y los flujos de efectivo de la empresa, facilitando la 
