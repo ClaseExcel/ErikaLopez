@@ -333,7 +333,7 @@ function crearPDF(data) {
         imagenFirmaUrl,
         data.nombreCompleto,
         data.rol,
-        "Vélez García",
+        "Erika López Gómez",
         Observaciones,
         Contingencia,
     );
